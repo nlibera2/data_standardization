@@ -18,6 +18,8 @@ Items are organized by general themes of relevance to freshwater data standardiz
 
 ## Data quality
 
+-   [Guidance on data quality](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-data-quality.html) - website - General elements of data quality that should be assessed when reviewing and using water temperature data.
+
 ## Miscellaneous
 
 -   [Freshwater Information Platform](http://www%20freshwaterplatform%20eu/) - website - The Freshwater Information Platform provides up-to-date information on freshwater science as well as an array of research resources and tools for the assessment and management of freshwater ecosystems. The platform's focus is on Europe; its perspective, however, is global.
