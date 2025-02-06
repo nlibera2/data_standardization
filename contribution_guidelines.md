@@ -17,8 +17,17 @@ If you wish to add resources to this list, make sure it meets the following crit
 Resources are alphabetically sorted, so find a proper place to put your resource in and an item in the following format (in MarkDown):
 
 ``` md
-* [resource-name](URL) – material type - mandatory short description.
+Author or publisher - [resource-name](URL) – material type
+ mandatory short description
 ```
+
+Material types
+- website
+- report
+- pdf
+- tool
+
+
 
 In your commit message, write:
 
