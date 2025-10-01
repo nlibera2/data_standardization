@@ -39,7 +39,7 @@ DataStream is an open access platform for sharing, visualizing and accessing wat
 
 
 ### USA
-USGS water data https://waterservices.usgs.gov/
+[USGS water data](https://waterservices.usgs.gov/)
 
 
 ## Collaborations and miscellaneous
